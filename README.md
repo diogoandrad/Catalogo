@@ -1,2 +1,1 @@
-# Projeto Catalogo
-Project using Laravel, MySQL.
+# Catalog project
